@@ -1,18 +1,27 @@
-h1{
-    color: #00f;
-    text-align: center;
+body{
+    color: #325050;
+    background:rgb(219, 213, 213);
+    font-family: 'Libre Baskerville', sans-serif;
+    font-size: 100%;
+    padding: 20px;
+    margin: 20px; 
 }
-
-h2 {
-    color: #0000ff;
-    font-style: italic;
-    text-align: center;
-}
-
 p{
-    font-family: sans-serif;
+    display: inline;
 }
+img{
+    display: block;
+    float: right;
+}
+nav{
+    background-color: rgb(252, 250, 253)
 
-ul{
-    line-height: 40px
+}
+a{
+    padding:20px;
+    margin-block-start: 20px
+    
+}
+a:hover{
+    color: red;
 }
