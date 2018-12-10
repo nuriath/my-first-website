@@ -1,12 +1,25 @@
 body{
-    background-color:bisque;
+    background-color:#dad8d8;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     text-size-adjust: 100%
+    
 }
 h1{
-    font-size:30px
+    font-size:30px;
+    margin-top : 50px;
+    display:block;
+    
 }
 img{
     float:left;
     margin-inline-end: 100px;
+    margin-top: 10px;
+}
+
+.about-me{
+    padding: 20px;
+}
+.address{
+    padding:space;
+
 }
