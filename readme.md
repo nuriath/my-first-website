@@ -12,7 +12,8 @@
  - Roger Uwayezu <uwayezuroger@gamil.com>
  ## Lincense & copyright
 
- Mwangaza Nuriath, 2018
+ (c) Mwangaza Nuriath, 2018
+ licensed under the [MIT License]_(LICENCE)_.
   
 
 
