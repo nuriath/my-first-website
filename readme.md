@@ -15,6 +15,10 @@
  ## Contributors
  - Mwangaza Nuriath <mnuriath28@gamil.com>
  - Roger Uwayezu <uwayezuroger@gamil.com>
+
+ ### link to live site on GitHub Pages
+ https://github.com/nuriath?tab=repositories
+
  ## Lincense & copyright
 
  (c) Mwangaza Nuriath, 2018
