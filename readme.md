@@ -13,8 +13,7 @@
  ## Lincense & copyright
 
  (c) Mwangaza Nuriath, 2018
- licensed under the [MIT License]_(LICENCE)_.
+ licensed under the [MIT License]_(LICENSE)_.
   
-
 
   
