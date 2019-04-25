@@ -1,15 +1,14 @@
 body{
-    background-color:#dad8d8;
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    text-size-adjust: 100%
-    
+    background-color:rgb(168, 163, 167);
+    font-family:'Lora';
+   
+    color: whitesmoke;
     
 }
 h1{
     font-size:30px;
     margin-top : 50px;
-    display:block;
-    background-color: rgb(148, 163, 163);
+    display: center;
     
 }
 img{
