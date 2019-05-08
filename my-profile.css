@@ -1,11 +1,7 @@
 body{
-    background-image: url("/home/wecode/Pictures/picture/pexels-photo-1194713.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover;
     font-family:'Lora';
-   
     color: whitesmoke;
-    
+    background-color: black;
 }
 h1{
     font-size:40px;
